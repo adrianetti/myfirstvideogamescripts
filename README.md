@@ -1,5 +1,7 @@
 # Sueña con dulces, el proyecto🎂✨
 
+![alt text](https://github.com/adrianetti/myfirstvideogamescripts/blob/master/sceneteaser.gif?raw=true)
+
 ### Script Language: C#
 
 ### Tools i've used:
